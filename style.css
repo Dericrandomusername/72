@@ -1,2 +1,15 @@
 iframe{text-align: center;
 margin: 100px;}
+#contact iframe
+{
+    width: 100%;
+}
+.travel_maindiv{border: 1px solid lightgray ;}
+.travel_maindiv img{
+    width:100%;
+
+}
+.travel_maindiv h5{margin: 20px;}
+.travel_maindiv h5,p{
+    margin-left: 20px;
+}
